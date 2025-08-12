@@ -1,17 +1,25 @@
-![DarkAdam-net Banner](banner.png)
-## Hi there 👋
+<!-- Banner -->
+![DarkAdam.net Banner](banner.png)
 
-<!--
-**DarkAdam-net/DarkAdam-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm DarkAdam
 
-Here are some ideas to get you started:
+🚀 **AI Enthusiast** | 🤖 Machine Learning Explorer | 🌐 Open Source Contributor  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I love building AI-powered projects, experimenting with neural networks, and exploring how AI can solve real-world problems.  
+
+---
+
+## 🔥 Skills & Interests
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Neural Networks & Deep Learning  
+- 📊 Data Science & Analytics  
+- 🌐 Web-based AI applications  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkAdam-net&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=DarkAdam-net&theme=radical)
+
+---
+
