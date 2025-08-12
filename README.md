@@ -1,3 +1,4 @@
+![DarkAdam-net Banner](banner.png)
 ## Hi there 👋
 
 <!--
